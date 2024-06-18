@@ -1,3 +1,4 @@
+![welcome](https://github.com/bibash04/bibash04/assets/146754689/6dedb22d-d1ff-4265-afcc-2c81ee1f18f7)
 <h1 align="center">Hi 👋, I'm Bibash Poudel</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
